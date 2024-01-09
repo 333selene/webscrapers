@@ -1,0 +1,8 @@
+MATCH_HEADING ||| NONE
+DATES  ||| YYYY-MM-DD |||     
+DELIMITER ||| , 
+TRANS ||| , ||| 
+TRANS ||| " ||| 
+
+S273IPC |||  ||| S&P/BMV CPI 
+

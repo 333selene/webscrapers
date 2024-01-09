@@ -1,0 +1,6 @@
+MATCH_HEADING ||| NONE
+DATES ||| ||| DD/MM/YYYY
+DELIMITER ||| ,
+TRANS ||| , |||
+
+S273IPC ||| INDEX ||| 
